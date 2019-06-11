@@ -1,0 +1,67 @@
+<!--
+  Generated template for the LoginPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+    <ion-navbar>
+    </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+    <ion-fab top right edge>
+        <button ion-fab mini (tap)="loginAsAdmin()" style="width: 60px; height: 60px;">
+            <ion-icon style="font-size: 1.8rem; margin-top: -20px;" *ngIf="!isAdmin" name="lock"></ion-icon>
+            <ion-icon style="font-size: 1.8rem; margin-top: -20px;" *ngIf="isAdmin" name="unlock"></ion-icon>
+            <h4 style="position: absolute;top:15px; left: 0; right: 0; font-size: 1.2rem">{{isAdmin?'Öğretmen':'Öğrenci'}}</h4>
+        </button>
+        
+    </ion-fab>
+
+
+
+    <section class="hero no-back is-fullheight">
+
+
+        <div class="hero-content">
+            <div class="container">
+                <h1 class="state">Dokuz Eylül Üniversitesi</h1>
+                <h2 class="state">Yoklama Uygulaması</h2>
+
+                <ion-list *ngIf="!isAdmin">
+
+                    <ion-item>
+                        <ion-input type="text" placeholder="Öğrenci Numarası" [(ngModel)]="registerCredentials.number"></ion-input>
+                    </ion-item>
+
+                    <ion-item>
+                        <ion-input type="password" placeholder="Şifre" [(ngModel)]="registerCredentials.password"></ion-input>
+                    </ion-item>
+
+                </ion-list>
+                <ion-list *ngIf="isAdmin">
+
+                    <ion-item>
+                        <ion-input type="text" placeholder="Email" [(ngModel)]="registerCredentialsUser.email"></ion-input>
+                    </ion-item>
+
+                    <ion-item>
+                        <ion-input type="password" placeholder="Şifre" [(ngModel)]="registerCredentialsUser.password"></ion-input>
+                    </ion-item>
+
+                </ion-list>
+                <button ion-button block (tap)="login()">
+                    Giriş Yap
+                </button>
+                <button ion-button block color="secondary" (tap)="signUp()">
+                    Kayıt Ol
+                </button>
+            </div>
+        </div>
+    </section>
+
+</ion-content>

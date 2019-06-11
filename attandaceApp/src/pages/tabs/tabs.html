@@ -1,0 +1,6 @@
+<ion-tabs>
+  <ion-tab [root]="tab1Root" tabTitle="Dersler" tabIcon="list"></ion-tab>
+  <ion-tab [root]="tab2Root" *ngIf="isAdmin" tabTitle="Yoklama" tabIcon="information-circle"></ion-tab>
+  <ion-tab [root]="tab4Root" *ngIf="isAdmin" tabTitle="Ders Ekle" tabIcon="add-circle"></ion-tab>
+  <ion-tab [root]="tab5Root" *ngIf="isAdmin" tabTitle="Öğrenci Onay" tabIcon="settings"></ion-tab>
+</ion-tabs>

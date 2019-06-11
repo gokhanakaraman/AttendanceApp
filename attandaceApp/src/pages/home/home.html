@@ -1,0 +1,15 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Ders Listesi</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-list>
+    <ion-item *ngFor="let item of items" (tap)="onSelect(item)" >
+      <h2>{{ item.name }}</h2>
+      <p>{{ item.Users[0].first }} {{ item.Users[0].last }}</p>
+      <p class="text-right">{{item.start}} - {{ item.end }}</p>
+    </ion-item>
+  </ion-list>
+</ion-content>
