@@ -15,4 +15,25 @@
  
  ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/1.png)
  
+ ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/2.png)
+  
+ ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/3.png)
+   
+ ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/4.png)
+    
+ ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/5.png)
+     
+ ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/6.png)
+      
+ ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/7.png)
+       
+ ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/8.png)
+        
+ ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/9.png)
+         
+ ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/10.png)
+           
+           
+           
+ 
 
