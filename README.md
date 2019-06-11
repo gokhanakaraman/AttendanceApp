@@ -12,3 +12,6 @@
  Nowadays one of the problems in the schools is tracking attendance is not easy and safe. 
  Particularly in universities. Classes are crowded and not easy to manage all students in that age. 
  My purpose is to change this system to an online platform and prevent any cheating on attendance systems. This application has been developed for teachers, academicians, professors and assistants. But this application mostly addresses students. 
+ 
+ ![alt text](https://img.freepik.com/free-vector/abstract-dynamic-pattern-wallpaper-vector_53876-59131.jpg?size=338&ext=jpg)
+
