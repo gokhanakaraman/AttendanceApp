@@ -14,7 +14,9 @@
  My purpose is to change this system to an online platform and prevent any cheating on attendance systems. This application has been developed for teachers, academicians, professors and assistants. But this application mostly addresses students. 
  
  ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/1.png)
+ 
    Student Login Page
+ 
  
  ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/2.png)
   
