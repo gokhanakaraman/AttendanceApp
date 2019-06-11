@@ -12,29 +12,42 @@
  Nowadays one of the problems in the schools is tracking attendance is not easy and safe. 
  Particularly in universities. Classes are crowded and not easy to manage all students in that age. 
  My purpose is to change this system to an online platform and prevent any cheating on attendance systems. This application has been developed for teachers, academicians, professors and assistants. But this application mostly addresses students. 
- 
+  ######  Student Login Page
+  
  ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/1.png)
  
-   Student Login Page
- 
+  ######  Instructor Login Page
  
  ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/2.png)
+ 
+ ######   Student Homepage
   
  ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/3.png)
+ 
+ ######   Attendance Student Page
    
  ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/4.png)
+ 
+ ######   Sign up Page
     
  ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/5.png)
+ 
+ ######   Attendance Instructor Page 
      
  ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/6.png)
+ 
+ ######   Instructor Homepage
       
  ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/7.png)
+ 
+ ######   Instructor Attendance Page
        
  ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/8.png)
+ 
+ ######   Instructor Add Course Page
         
  ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/9.png)
-         
- ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/10.png)
+ 
            
            
            
