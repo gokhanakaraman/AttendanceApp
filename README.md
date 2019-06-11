@@ -6,7 +6,7 @@
  services and this function allows applications to provide periodic updates 
  for the device’s geographical location. 
  
- > MySql used on Back-end side of the application and based on nodejs.
+ > MySql database used for storing and managing data. Back-end side of the application developed with nodejs.
 
  > This application is an online attendance system which makes attendances easier and safely.
  Nowadays one of the problems in the schools is tracking attendance is not easy and safe. 
