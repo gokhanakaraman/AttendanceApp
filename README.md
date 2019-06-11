@@ -1,5 +1,5 @@
-# AttendanceApp
-
+# Online Attendance Application (Cross Platform - Ionic)
+ 
  > The application is developed on cross mobile platforms. Node.js, 
  ionic framework and cordova used during the development of the application.
  Ionic web libraries provides us to use “GPSTracker” for tracking location 
@@ -12,6 +12,9 @@
  Nowadays one of the problems in the schools is tracking attendance is not easy and safe. 
  Particularly in universities. Classes are crowded and not easy to manage all students in that age. 
  My purpose is to change this system to an online platform and prevent any cheating on attendance systems. This application has been developed for teachers, academicians, professors and assistants. But this application mostly addresses students. 
+ 
+ > When the class has started, Instructor logs in via instructor account and after choosing the course, generates a random password code and gives the code to the students. Student logs in via student's account and after choosing the right course, they enter the password code. **If the student's location is closer than 5 meters to the instructor and the password code is correct, they can be attended in the attendance**
+ 
   ######  Student Login Page
   
  ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/1.png)
