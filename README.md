@@ -13,9 +13,6 @@
  Particularly in universities. Classes are crowded and not easy to manage all students in that age. 
  My purpose is to change this system to an online platform and prevent any cheating on attendance systems. This application has been developed for teachers, academicians, professors and assistants. But this application mostly addresses students. 
  
- ![alt text](https://ibb.co/mSJ4HGV)
+ ![alt text](https://github.com/gokhanakaraman/AttendanceApp/blob/master/attandaceApp/resources/1.png)
  
- ![alt text](https://ibb.co/F7R8FCY)
- 
- ![alt text](https://ibb.co/7VMspsS)
 
